@@ -5,9 +5,9 @@ import os
 ENTRY_TEXT = """The kettle clicked off. I let it stay quiet.
 Hands on the counter, still shaped by the work.
 A streetlight turns the rain to slow gold.
-Nothing asks me to be useful.
-The world moves, and I am allowed to watch.
-Rest is not the absence of the task - it is the task, done perfectly."""
+Nothing asks me to be useful tonight.
+A night bus takes strangers home without me.
+The kettle stays warm until morning."""
 
 
 def main():
